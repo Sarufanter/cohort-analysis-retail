@@ -9,8 +9,9 @@ Analysis of customer retention for a UK-based online retailer using a dataset of
 * **Statistics:** Cohort Analysis, Retention Rate.
 
 ## 📊 Key Results (Visualization)
-![Cohort Analysis Heatmap](dashboard_screenshot.png)
-*(Вставте сюди ваше фото)*
+![Cohort Analysis Heatmap](![Uploading ![Cohort_Analys.png]()
+image.png…]()
+.png)
 
 ## 💡 Key Insights
 1.  **Seasonal Impact:** A significant retention spike (~50%) occurs in **Month 11** for the December 2010 cohort, indicating strong seasonality (customers returning for the next holiday season).
