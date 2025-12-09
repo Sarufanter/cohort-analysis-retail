@@ -8,10 +8,17 @@ Analysis of customer retention for a UK-based online retailer using a dataset of
 * **Power BI:** Visualization, DAX measures for dynamic retention calculation.
 * **Statistics:** Cohort Analysis, Retention Rate.
 
-## 📊 Key Results (Visualization)
-![Cohort Analysis Heatmap](![Uploading ![Cohort_Analys.png]()
-image.png…]()
-.png)
+## 📊 Visualization & Interactivity
+
+The dashboard allows for both high-level overview and deep-dive analysis into specific cohorts.
+
+### 1. General Overview
+The full heatmap shows retention rates across all cohorts from Dec 2010 to Dec 2011.
+![Full Dashboard Overview](Cohort_Analys.png)
+
+### 2. Interactive Drill-Down
+By clicking on a specific cohort (e.g., **Dec 2010**) in the matrix, the line chart automatically highlights the retention curve for that specific group, allowing for clearer trend analysis.
+![Selected Cohort Drill-down](Cohort_filtered.png)
 
 ## 💡 Key Insights
 1.  **Seasonal Impact:** A significant retention spike (~50%) occurs in **Month 11** for the December 2010 cohort, indicating strong seasonality (customers returning for the next holiday season).
